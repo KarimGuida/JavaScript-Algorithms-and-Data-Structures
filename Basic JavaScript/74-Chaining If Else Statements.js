@@ -20,7 +20,6 @@ function testSize(num) {
     else{
       return "Huge"
     }
-    // Only change code above this line
   }
   
   testSize(7);
